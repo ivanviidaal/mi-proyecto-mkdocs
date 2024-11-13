@@ -43,7 +43,7 @@ nav:
 
 repo_url: 'https://github.com/ivanviidaal/mi-proyecto-mkdocs'
 repo_name: 'GitHub'
-#edit_uri: 'edit/main/docs/'
+edit_uri: 'edit/main/docs/'
 
 use_directory_urls: true
 strict: true
