@@ -1,0 +1,42 @@
+site_name: Ivan Docs
+##site_url: 'https://midominio.com'
+site_author: 'Iván Vidal'
+site_description: 'Documentación oficial de Ivan Docs'
+
+theme:
+  features:
+    - content.action.edit
+    - content.action.view
+#    - navigation.tabs
+#    - navigation.tabs.sticky
+  name: 'material'
+  palette:
+    primary: 'indigo'
+    accent: 'blue'
+  font:
+    text: 'Roboto'
+  google_analytics:
+    property: 'UA-12345678-9'
+    auto: true
+
+plugins:
+  - search
+  - macros
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - codehilite:
+      guess_lang: false
+
+extra_css:
+  - 'css/style.css'
+  
+nav:
+  - Home: index.md
+  - Guia Instalacion: guiainstalacion.md
+  - Nuevo Proyecto: newproyect.md
+  - Configuracion: configuracion.md
+  - Personalizacion: personalizacion.md
+  - Extensiones: extensiones.md
