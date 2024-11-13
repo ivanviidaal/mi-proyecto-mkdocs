@@ -40,3 +40,10 @@ nav:
   - Configuracion: configuracion.md
   - Personalizacion: personalizacion.md
   - Extensiones: extensiones.md
+
+repo_url: 'https://github.com/ivanviidaal/mi-proyecto-mkdocs'
+repo_name: 'GitHub'
+#edit_uri: 'edit/main/docs/'
+
+use_directory_urls: true
+strict: true

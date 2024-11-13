@@ -135,8 +135,6 @@ an `img` subdirectory in the `docs` directory and copy your custom `favicon.ico`
 file to that directory. MkDocs will automatically detect and use that file as your
 favicon icon.
 
-[MkDocs favicon]: ../img/favicon.ico
-
 ## Building the site
 
 That's looking good. You're ready to deploy the first pass of your `MkLorum`
