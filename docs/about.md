@@ -1,13 +1,11 @@
 # Iván Vidal Sánchez
 
+![about](https://via.placeholder.com/800x100?text=Sobre mi)
+
 ## Informacion basica
 
 * Poblacion: Ontinyent
 * Fecha de nacimiento: 06/02/2006 
-
-## Imagen
-
-![Imagen1](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg)
 
 ## Descripcion
   

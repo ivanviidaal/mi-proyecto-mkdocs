@@ -1,17 +1,22 @@
-# Bienvenido a Ivan Docs
+# Bienvenido al Índice de Módulos
 
-¡Bienvenido a la documentación de **Ivan Docs**!
+![index](https://via.placeholder.com/800x100?text=Indice)
 
-Aquí encontrarás toda la información necesaria para comprender y usar este proyecto de manera efectiva. Esta documentación está diseñada para ofrecer una guía clara y detallada de cada aspecto del proyecto.
 
-## Secciones
+Este repositorio contiene información sobre los diferentes módulos que cursaré en el primer año del Grado Superior de Desarrollo de Aplicaciones Web (DAW). Cada módulo está detallado con:
 
-1. [Home](index.md)
-- [Guia Instalacion](guiainstalacion.md)
-- [Configuracion](configuracion.md)
-- [Personalizacion](personalizacion.md)
-- [Extensiones](extensiones.md)
+- Un breve resumen del módulo.
+- Lo que creo que aprenderé.
+- Mis expectativas.
 
----
+## Módulos:
 
-Explora la barra de navegación para acceder a las diferentes secciones de la documentación. ¡Esperamos que encuentres esta guía útil para aprovechar al máximo Ivan Docs!
+- [Sobre mí](about.md)
+- [Programación](programacion.md)
+- [Bases de Datos](basesdedatos.md)
+- [Entornos de Desarrollo](entornos.md)
+- [Lenguajes de Marcas](lenguajes.md)
+- [Sistemas Informáticos](sistemas.md)
+- [Inglés](ingles.md)
+- [Itinerario Personal](itinerario.md)
+- [Proyecto Intermodular](pintermodular.md)

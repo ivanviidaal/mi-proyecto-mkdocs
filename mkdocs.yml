@@ -1,7 +1,7 @@
 site_name: Ivan Docs
 ##site_url: 'https://midominio.com'
 site_author: 'Iván Vidal'
-site_description: 'Documentación oficial de Ivan Docs'
+site_description: 'Practica Mkdocks explicando asignaturas del modulo DAW y sobre mi.'
 
 theme:
   features:
@@ -32,16 +32,23 @@ markdown_extensions:
 
 extra_css:
   - 'css/style.css'
-  
+
+extra_javascript:
+  - js/script.js
+
 nav:
   - Home: index.md
-  - Guia Instalacion: guiainstalacion.md
-  - Nuevo Proyecto: newproyect.md
-  - Configuracion: configuracion.md
-  - Personalizacion: personalizacion.md
-  - Extensiones: extensiones.md
+  - Sobre mi: about.md
+  - Programacion: programacion.md
+  - Bases de datos: basesdedatos.md
+  - Entornos de desarrollo: entornos.md
+  - Lenguajes de marcas: lenguajes.md
+  - Sistemas informaticos: sistemas.md
+  - Ingles: ingles.md
+  - Itinerario Personal: itinerario.md
+  - Proyecto Intermodular: pintermodular.md
 
-repo_url: 'https://github.com/ivanviidaal/mi-proyecto-mkdocs'
+repo_url: 'https://github.com/ivanviidaal/practicamkdocs.git'
 repo_name: 'GitHub'
 edit_uri: 'edit/main/docs/'
 
